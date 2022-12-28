@@ -1,0 +1,2 @@
+[24-Dec-2022 06:47:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home1/actthgku/seeking.actthost.com/vendor/composer/platform_check.php on line 24
+[24-Dec-2022 06:49:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home1/actthgku/seeking.actthost.com/vendor/composer/platform_check.php on line 24
